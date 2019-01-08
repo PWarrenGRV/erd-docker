@@ -1,2 +1,2 @@
 # erd-vagrant
-vagrantfile for running erd
+dockerfile for running erd
