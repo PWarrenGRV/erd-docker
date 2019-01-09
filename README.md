@@ -1,2 +1,3 @@
-# erd-vagrant
-dockerfile for running erd
+# erd-docker
+Dockerfile for running [erd](https://github.com/BurntSushi/erd).
+
