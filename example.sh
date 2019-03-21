@@ -1,2 +1,2 @@
 #! /usr/bin/env bash
-cat simple.er | docker run -i --rm pwarrengrv/erd-docker > simple.png
+cat simple.er | docker run --rm -i pwarrengrv/erd-docker erd -f png > simple.png
